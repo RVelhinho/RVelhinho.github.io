@@ -1,0 +1,18 @@
+p { font-size: .8em; }
+
+@media (min-width: 576px) {
+    p { font-size: .8em; }
+}
+@media (min-width: 768px) {
+    p { font-size: .8em; }
+}
+@media (min-width: 992px) {
+    p { font-size: 1.05em; }
+}
+@media (min-width: 1200px) {
+    p { font-size: 1.3em; }
+}
+
+.mrow1{
+    margin-top: 15%;
+}
