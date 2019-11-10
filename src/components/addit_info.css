@@ -1,0 +1,23 @@
+.mabout{
+    margin-top: 13%;
+    margin-bottom: 7%;
+}
+
+.img{
+    margin-left: 25%;
+}
+
+.hobbies { font-size: 1rem; }
+
+@media (min-width: 576px) {
+    .hobbies { font-size: 1.25rem; }
+}
+@media (min-width: 768px) {
+    .hobbies { font-size: 1.5rem; }
+}
+@media (min-width: 992px) {
+    .hobbies{ font-size: 1.75rem; }
+}
+@media (min-width: 1200px) {
+    .hobbies { font-size: 2rem; }
+}
