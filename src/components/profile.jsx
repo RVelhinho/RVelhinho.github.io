@@ -7,7 +7,7 @@ class Profile extends Component {
         return (  
             <React.Fragment>
                 <div className='row mrow1'>
-                    <div className='mx-auto my-4 w-75 col-sm-8 col-md-6 order-2 order-md-1 order-lg-1 h3'>
+                    <div className='mx-auto my-4 w-75 col-9 col-sm-7 col-md-6 order-2 order-sm-1 order-md-1 order-lg-1 h3'>
                         <p className='text-secondary d-inline'>Hi! I'm </p>
                         <p className='text-warning d-inline'>Ricardo Velhinho</p>
                         <p className='text-secondary d-inline'>, a student at</p>
@@ -17,7 +17,7 @@ class Profile extends Component {
                         <p className='text-warning d-inline'>Computer Science & Engineering</p>
                         <p className='text-secondary d-inline'>.</p>
                     </div>
-                    <div className='mx-auto col-6 col-sm-5 col-md-2 order-1 order-md-2 order-lg-2'>
+                    <div className='mx-auto col-6 col-sm-4 col-md-2 order-1 order-sm-2 order-md-2 order-lg-2'>
                         <img className='img-fluid border border-dark rounded-circle' src={Eu}/> 
                     </div>
                 </div>

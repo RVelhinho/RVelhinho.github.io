@@ -13,7 +13,7 @@ class Additional_Info extends Component {
                 <div className='col-12 col-sm-12 col-md-5 ml-md-5 mabout'>
                     <p className='h1 text-dark'>About</p>
                     <hr className='w-75 my-4'></hr>
-                    <p className='h5 text-secondary'>I'm originally from Alentejo but after I finished highschool I decided to come to
+                    <p className='h5 w-75 text-secondary mx-auto'>I'm originally from Alentejo but after I finished highschool I decided to come to
                     Lisbon in order to pursue my career in Computer Science & Engineering at Instituto Superior Técnico in Lisbon and now I'm currently in my MSc.
                     which is specialized in Interaction & Visualization. I consider myself proactive, a fast learner, motivated and dedicated. I'm always ready to
                     take on new adventures in order to grow and become a better person and professional.

@@ -20,10 +20,10 @@ class Social extends Component {
                     </div>
                 </div>
                 <div className='row text-center mx-auto w-50'>
-                    <div className='col-6 my-3'>
+                    <div className='col-xs-12 col-sm-12 col-md-6 order-1 my-3'>
                         <p className='h5 text-light'>+351 967 941 227</p>
                     </div>
-                    <div className='col-6 my-3'>
+                    <div className='col-xs-12 col-sm-12 col-md-6 order-2 my-3'>
                     <p className='h5 text-light'>ricvelhinho@gmail.com</p>
                     </div>
                 </div>
