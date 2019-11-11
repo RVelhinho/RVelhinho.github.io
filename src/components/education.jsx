@@ -6,7 +6,7 @@ import './education.css';
 class Education extends Component {
     render() { 
         return (
-            <div class="container">
+            <div class="container-fluid w-75">
                 <br class='my-5'></br>
                 <br class='my-5'></br>
                 <br class='my-5'></br>

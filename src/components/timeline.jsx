@@ -7,7 +7,7 @@ import { faTasks } from '@fortawesome/free-solid-svg-icons'
 class Timeline extends Component {
     render() { 
         return ( 
-            <div class="container">
+            <div class="container-fluid w-75">
                 <br class='my-5'></br>
                 <br class='my-5'></br>
                 <br class='my-5'></br>

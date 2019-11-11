@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Skills extends Component {
     render() { 
         return (
-            <div class='container'>
+            <div class='container-fluid w-75'>
                 <br class='my-5'></br>
                 <br class='my-5'></br>
                 <br class='my-5'></br>
@@ -32,7 +32,7 @@ class Skills extends Component {
                             <div class="progress-bar bg-warning" role="progressbar" style={{width: '50%'}} aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                         </div>
                     </div>
-                    <div class='col-5'>
+                    <div class='col-5 mx-auto'>
                         <br/>
                         <br/>
                         <p class='h5 text-dark'>React</p>
