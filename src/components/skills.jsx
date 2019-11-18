@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Skills extends Component {
     render() { 
         return (
-            <div class='container-fluid w-75'>
+            <div class='container-fluid w-100 my-5'>
                 <br class='my-5'></br>
                 <br class='my-5'></br>
                 <br class='my-5'></br>

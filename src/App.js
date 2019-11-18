@@ -3,7 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 import NavBar from './components/navbar';
 import Profile from './components/profile';
-import Additional_Info from './components/addit_info';
+import About from './components/about';
+import Hobbies from './components/hobbies';
 import Buttons from './components/buttons';
 import Social from './components/social';
 import Timeline from './components/timeline';
@@ -15,8 +16,8 @@ function App() {
     <React.Fragment>
       <NavBar/>
       <Profile/>
-      <Buttons></Buttons>
-      <Additional_Info></Additional_Info>
+      <About></About>
+      <Hobbies></Hobbies>
       <Skills></Skills>
       <Timeline></Timeline>
       <Education></Education>
