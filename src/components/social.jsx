@@ -7,7 +7,7 @@ import './social.css';
 class Social extends Component {
     render() { 
         return (
-            <div className='container-fluid bg-dark'>
+            <div className='container-fluid container-social'>
                 <div className='row text-center mx-auto w-50'>
                     <div className='col-4 col-sm-4 col-md-4 my-3'>
                         <a href="https://www.facebook.com/ricardo.velhinho"><img src={Facebook} className='facebook'></img></a>

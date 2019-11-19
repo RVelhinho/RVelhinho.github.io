@@ -1,3 +1,9 @@
+.container-social{
+    background-color: #333333;
+}
+
+
+
 
 @media (min-width: 400px) {
     .facebook, .linkedin, .github{
