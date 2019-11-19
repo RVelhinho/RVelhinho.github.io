@@ -16,6 +16,7 @@ class Timeline extends Component {
                 <br class='my-5'></br>
                 <br class='my-5'></br>
                 <br class='my-5'></br>
+                <br class='my-5'></br>
                 <div class="page-header text-center">
                     <h1 class='timeline_text' id="timeline">Experience</h1>
                 </div>
