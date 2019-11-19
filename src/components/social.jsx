@@ -8,22 +8,23 @@ class Social extends Component {
     render() { 
         return (
             <div className='container-fluid container-social'>
+                <p className='h1 text-center text-white py-3'>Find Me!</p>
                 <div className='row text-center mx-auto w-50'>
-                    <div className='col-4 col-sm-4 col-md-4 my-3'>
+                    <div className='col-4 col-sm-4 col-md-4 p-3'>
                         <a href="https://www.facebook.com/ricardo.velhinho"><img src={Facebook} className='facebook'></img></a>
                     </div>
-                    <div className='col-4 col-sm-4 col-md-4 my-3'>
+                    <div className='col-4 col-sm-4 col-md-4 py-3'>
                         <a href="https://www.linkedin.com/in/ricardo-velhinho/"><img src={Linkedin} className='linkedin'></img></a>    
                     </div>
-                    <div className='col-4 col-sm-4 col-md-4 my-3' id='github'>
+                    <div className='col-4 col-sm-4 col-md-4 py-3' id='github'>
                         <a href="https://github.com/RVelhinho"><img src={Github} className='github'></img></a>
                     </div>
                 </div>
                 <div className='row text-center mx-auto w-50'>
-                    <div className='col-xs-12 col-sm-12 col-md-6 order-1 my-3'>
+                    <div className='col-xs-12 col-sm-12 col-md-6 order-1 py-3'>
                         <p className='h5 text-light'>+351 967 941 227</p>
                     </div>
-                    <div className='col-xs-12 col-sm-12 col-md-6 order-2 my-3'>
+                    <div className='col-xs-12 col-sm-12 col-md-6 order-2 py-3'>
                     <p className='h5 text-light'>ricvelhinho@gmail.com</p>
                     </div>
                 </div>

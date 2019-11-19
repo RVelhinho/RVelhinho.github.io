@@ -1,15 +1,12 @@
 import React, { Component } from 'react';
 import './about.css';
-import Music from './music.png';
-import TV from './tv.png';
-import Sports from './sports.png';
-import Tech from './tech.png';
+import IST from './ist.jpg';
 
 class About extends Component {
     state = {  }
     render() { 
         return (
-            <div className='container-fluid'>
+            <div className='container-fluid container-about'>
                 <div className='row row-about text-center'>
                     <div className='col-12 col-sm-12 col-md-5 ml-md-5 mabout'>
                         <p className='h1 text-dark'>About</p>
@@ -19,6 +16,9 @@ class About extends Component {
                         which is specialized in Interaction & Visualization. I consider myself proactive, a fast learner, motivated and dedicated. I'm always ready to
                         take on new adventures in order to grow and become a better person and professional.
                         </p>
+                    </div>
+                    <div className='my-5 col-10 col-sm-10 col-md-4 mx-auto'>
+                        <img src={IST} className='img img-ist border border-dark'></img>
                     </div>
                 </div>
             </div>

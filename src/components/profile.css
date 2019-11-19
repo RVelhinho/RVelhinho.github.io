@@ -22,10 +22,10 @@
     width: 100%;
 }
 
-.img{
+.img-profile{
     position: absolute;
     top: 0%;
-    left: -25%;
+    left: 0%;
     width: 100%;
 }
 
@@ -38,10 +38,10 @@
         left: 20%;
         width: 100%;
     }
-    .img {
+    .img-profile {
         position: absolute;
         top: -10%;
-        left: -40%;
+        left: 0%;
         width: 100%; }
     .mrow1{
         position: relative;
@@ -62,10 +62,10 @@
         font-size: 200%;
         position: absolute;
         top: 10%;
-        left: 20%;
+        left: 10%;
         width: 100%;
     }
-    .img {
+    .img-profile {
         position: absolute;
         top: -5%;
         left: -50%;
@@ -92,7 +92,7 @@
         left: 20%;
         width: 100%;
     }
-    .img {
+    .img-profile {
         position: absolute;
         top: -10%;
         left: -50%;
@@ -119,11 +119,12 @@
         left: 20%;
         width: 100%;
     }
-    .img {
+    .img-profile {
         position: absolute;
-        top: -20%;
+        top: -30%;
         left: -50%;
-        width: 100%; }
+        width: 100%;
+    }
     .mrow1{
         position: relative;
         width: 100%;

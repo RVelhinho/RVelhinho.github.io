@@ -12,7 +12,7 @@ class Profile extends Component {
                             <p className='text-white d-inline stext'>Ricardo Velhinho</p>
                         </div>
                         <div className='mx-auto my-5 my-sm-5 my-md-2 pt-xs-5 pt-sm-5 pt-md-0 col-6 col-sm-4 col-md-2 order-1 order-sm-2 order-md-2 order-lg-2'>
-                            <img className='img border border-dark rounded-circle' src={Eu}/> 
+                            <img className='img-profile border border-dark rounded-circle' src={Eu}/> 
                         </div>
                     </div>
                 </div>

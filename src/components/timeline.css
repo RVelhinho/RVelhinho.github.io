@@ -186,7 +186,7 @@
   .row-experience{
     background-color: #333333;
     width: 100%;
-    height: 240vh;
+    height: 250vh;
     clip-path: polygon(0 11%, 100% 0, 100% 46%, 0 58%);
   }
 }
@@ -194,7 +194,7 @@
   .row-experience{
     background-color: #333333;
     width: 100%;
-    height: 210vh;
+    height: 240vh;
     clip-path: polygon(0 11%, 100% 0, 100% 46%, 0 58%);
   }
 }
