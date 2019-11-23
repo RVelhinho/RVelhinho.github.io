@@ -7,6 +7,8 @@ class Education extends Component {
     render() { 
         return (
             <div class="container-fluid h-auto">
+                <div className='row w=100 h-100'>
+                <div className='col-10 mx-auto my-auto'>
                 <div class="page-header text-center">
                     <h1 id="timeline">Education</h1>
                 </div>
@@ -46,6 +48,8 @@ class Education extends Component {
                         </div>
                     </li>
                 </ul>
+                </div>
+                </div>
                 <br class='my-5'></br>
                 <br class='my-5'></br>
                 <br class='my-5'></br>

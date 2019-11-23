@@ -2,16 +2,6 @@
     background-color: #333333;
 }
 
-
-.stext1{
-    font-size: 10vmin;
-}
-
-.stext2{
-    font-size: 5vmin;
-}
-
-
 @media (min-width: 400px) {
     .facebook, .linkedin, .github{
         width: 70%;
