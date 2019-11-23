@@ -1,82 +1,13 @@
 .container-about{
-    position: relative;
-    width: 100%;
     height: 100vh;
-}
-
-.row-about{
     position: relative;
-    margin-top: -45%;
 }
-
-.img-ist{
-    position: absolute;
-    top: -90%;
-    left: 0%;
-    width: 100%;
-}
-
 
 @media (min-width: 576px) {
-    .row-about{
-        position: relative;
-        margin-top: -15%;
-    }
-    .img-ist{
-        position: absolute;
-        top: -100%;
-        left: 12%;
-        width: 80%;
-    }
 }
 @media (min-width: 768px) {
-    .row-about{
-        position: relative;
-        margin-top: -10%;
-    }
-    .img-ist{
-        position: absolute;
-        top: 20%;
-        left: -20%;
-        width: 130%;
-    }
-    .container-about{
-        position: relative;
-        width: 100%;
-        height: 100%;
-    }
 }
 @media (min-width: 992px) {
-    .row-about{
-        position: relative;
-        margin-top: -5%;
-    }
-    .img-ist{
-        position: absolute;
-        top: -10%;
-        left: 0%;
-        width: 120%;
-    }
-    .container-about{
-        position: relative;
-        width: 100%;
-        height: 100%;
-    }
 }
 @media (min-width: 1200px) {
-    .row-about{
-        position: relative;
-        margin-top: -5%;
-    }
-    .img-ist{
-        position: absolute;
-        top: -40%;
-        left: 0%;
-        width: 100%;
-    }
-    .container-about{
-        position: relative;
-        width: 100%;
-        height: 100%;
-    }
-}
+}   

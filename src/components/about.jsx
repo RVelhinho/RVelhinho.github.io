@@ -6,19 +6,19 @@ class About extends Component {
     state = {  }
     render() { 
         return (
-            <div className='container-fluid container-about'>
-                <div className='row row-about text-center'>
-                    <div className='col-12 col-sm-12 col-md-5 ml-md-5 mabout'>
-                        <p className='h1 text-dark'>About</p>
+            <div className='container-fluid container-about p-0'>
+                <div className='row w-100 h-100 text-center align-items-center m-0'>
+                    <div className='mx-auto col-12 col-sm-12 col-md-5 ml-md-5 col-lg-4'>
+                        <p className='display-4 text-dark'>About</p>
                         <hr className='w-75 my-4'></hr>
-                        <p className='h5 w-100 text-secondary mx-auto'>I'm originally from Alentejo but after I finished highschool I decided to come to
+                        <p className='display-5 w-100 text-secondary mx-auto atext'>I'm originally from Alentejo but after I finished highschool I decided to come to
                         Lisbon in order to pursue my career in Computer Science & Engineering at Instituto Superior Técnico in Lisbon and now I'm currently in my MSc.
                         which is specialized in Interaction & Visualization. I consider myself proactive, a fast learner, motivated and dedicated. I'm always ready to
                         take on new adventures in order to grow and become a better person and professional.
                         </p>
                     </div>
-                    <div className='my-5 col-10 col-sm-10 col-md-4 mx-auto'>
-                        <img src={IST} className='img img-ist border border-dark'></img>
+                    <div className='mx-auto my-auto col-10 col-sm-8 col-md-5 col-lg-5'>
+                        <img src={IST} className='img-fluid border border-dark'></img>
                     </div>
                 </div>
             </div>

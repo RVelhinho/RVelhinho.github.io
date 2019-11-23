@@ -147,38 +147,21 @@
     margin-top: 5px;
   }
 
-  .row-education{
+  .container-education{
     position: relative;
-    margin-top: -210%;
+    margin-top: 10%;
   }
 
 
   @media (min-width: 576px) {
-    .row-education{
-      position: relative;
-      margin-top: -110%;
-    }
 }
 
 
 @media (min-width: 768px) {
-  .row-education{
-    position: relative;
-    margin-top: -80%;
-  }
-    
 }
 @media (min-width: 992px) {
-  .row-education{
-    position: relative;
-    margin-top: -60%;
-  }
     
 }
 @media (min-width: 1200px) {
-  .row-education{
-    position: relative;
-    margin-top: -50%;
-  }
     
 }
