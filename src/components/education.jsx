@@ -8,9 +8,9 @@ class Education extends Component {
         return (
             <div class="container-fluid h-auto">
                 <div className='row w=100 h-100'>
-                <div className='col-10 mx-auto my-auto'>
+                <div className='col-9 mx-auto my-auto'>
                 <div class="page-header text-center">
-                    <h1 id="timeline">Education</h1>
+                    <h1 class='h3' id="timeline">Education</h1>
                 </div>
                 <hr class='w-50 my-3'/>
                 <ul class="timeline">
@@ -18,7 +18,7 @@ class Education extends Component {
                         <div class="timeline-badge warning"><FontAwesomeIcon icon={ faUniversity } /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4 class="timeline-title">Msc. in Computer Science & Engineering</h4>
+                                <h5 class="timeline-title">Msc. in Computer Science & Engineering</h5>
                             </div>
                             <div class="timeline-body">
                                 <p class='h5 text-secondary'>2019 - Present</p>
@@ -29,7 +29,7 @@ class Education extends Component {
                         <div class="timeline-badge warning"><FontAwesomeIcon icon={ faUniversity }></FontAwesomeIcon></div>
                             <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4 class="timeline-title">Bsc. in Computer Science & Engineering</h4>
+                                <h5 class="timeline-title">Bsc. in Computer Science & Engineering</h5>
                             </div>
                             <div class="timeline-body">
                                 <p class='h5 text-secondary'>2016 - 2019</p>
@@ -40,7 +40,7 @@ class Education extends Component {
                         <div class="timeline-badge warning"><FontAwesomeIcon icon={ faBookOpen } /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4 class="timeline-title">High School</h4>
+                                <h5 class="timeline-title">High School</h5>
                             </div>
                             <div class="timeline-body">
                                 <p class='h5 text-secondary'>2013 - 2016</p>

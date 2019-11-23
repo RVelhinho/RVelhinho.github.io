@@ -8,7 +8,7 @@ class Social extends Component {
     render() { 
         return (
             <div className='container-fluid container-social'>
-                <p className='text-center text-white py-3 stext1'>Find Me!</p>
+                <p className='text-center text-white py-3 h3'>Find Me!</p>
                 <div className='row text-center mx-auto w-50'>
                     <div className='my-auto col-4 col-sm-4 col-md-4 p-3'>
                         <a href="https://www.facebook.com/ricardo.velhinho"><img src={Facebook} className='facebook img-fluid'></img></a>

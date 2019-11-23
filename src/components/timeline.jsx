@@ -11,9 +11,9 @@ class Timeline extends Component {
                 <div className='row w-100 h-100 m-0'>
                     <div className='col background_timeline'>
                         <div className='row w=100 h-100'>
-                            <div className='col-10 my-auto mx-auto col-timeline'>
+                            <div className='col-9 my-auto mx-auto col-timeline'>
                             <div class="page-header text-center">
-                            <h1 class='timeline_text1' id="timeline">Experience</h1>
+                            <h1 class='h3 timeline_text1' id="timeline">Experience</h1>
                         </div>
                         <hr class='w-50 my-3'/>
                         <ul class="timeline timeline_text">
