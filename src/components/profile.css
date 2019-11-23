@@ -1,59 +1,29 @@
-.container-profile{
-    height: 60vh;
-    position: relative;
-}
-
 .background{
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 80%);
     background-color: #333333;
-    height: 110%;
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 .ptext{
-    font-size: .6em;
+    font-size: 10vmin;
+    padding-top: 50px;
 }
 
+.img-wrapper img{
+    max-width: 70%;
+}
 
 @media (min-width: 576px) {
-    .background{
-        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 80%);
-        background-color: #333333;
-        height: 110%;
-    }
-    .ptext{
-        font-size: .7em;
-    }
 }
 
 @media (min-width: 768px) {
-    .background{
-        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 80%);
-        background-color: #333333;
-        height: 100%;
-    }
-    .ptext{
-        font-size: .8em;
-    }
 }
 
 @media (min-width: 992px) {
-    .background{
-        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 80%);
-        background-color: #333333;
-        height: 100%;
-    }
-    .ptext{
-        font-size: .9em;
-    }
 }
 
 @media (min-width: 1200px) {
-    .background{
-        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 80%);
-        background-color: #333333;
-        height: 100%;
-    }
-    .ptext{
-        font-size: 1em;
-    }
+    
 }

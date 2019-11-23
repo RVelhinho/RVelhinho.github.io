@@ -1,6 +1,14 @@
-.container-about{
-    height: 100vh;
-    position: relative;
+.atext{
+    font-size: 2vmin;
+}
+
+
+.atext1{
+    font-size: 10vmin;
+}
+
+.atext2{
+    font-size: 3vmin;
 }
 
 @media (min-width: 576px) {

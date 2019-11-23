@@ -6,7 +6,7 @@ import './education.css';
 class Education extends Component {
     render() { 
         return (
-            <div class="container-fluid container-education">
+            <div class="container-fluid h-auto">
                 <div class="page-header text-center">
                     <h1 id="timeline">Education</h1>
                 </div>

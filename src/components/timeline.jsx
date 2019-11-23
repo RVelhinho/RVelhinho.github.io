@@ -7,13 +7,13 @@ import { faTasks } from '@fortawesome/free-solid-svg-icons'
 class Timeline extends Component {
     render() { 
         return ( 
-            <div class="container-fluid container-experience p-0">
+            <div class="container-fluid px-0 h-auto">
                 <div className='row w-100 h-100 m-0'>
                     <div className='col background_timeline'>
                         <div className='row w=100 h-100'>
-                            <div className='col my-auto'>
+                            <div className='col-10 my-auto mx-auto col-timeline'>
                             <div class="page-header text-center">
-                            <h1 class='timeline_text' id="timeline">Experience</h1>
+                            <h1 class='timeline_text1' id="timeline">Experience</h1>
                         </div>
                         <hr class='w-50 my-3'/>
                         <ul class="timeline timeline_text">

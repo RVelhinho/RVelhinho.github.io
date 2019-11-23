@@ -1,14 +1,12 @@
 import React, { Component } from 'react';
+import './skills.css';
 
 class Skills extends Component {
     render() { 
         return (
-            <div class='container-fluid w-100 my-5'>
-                <br class='my-5'></br>
-                <br class='my-5'></br>
-                <br class='my-5'></br>
+            <div class='container-fluid w-100 my-5 h-auto'>
                 <div class='row'>
-                    <p class='h1 text-dark w-100 text-center'>Skills</p>
+                    <p class='text-dark w-100 text-center sktext'>Skills</p>
                     <div class='col-5 mx-auto'>
                         <br/>
                         <br/>

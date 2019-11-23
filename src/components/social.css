@@ -3,6 +3,13 @@
 }
 
 
+.stext1{
+    font-size: 10vmin;
+}
+
+.stext2{
+    font-size: 5vmin;
+}
 
 
 @media (min-width: 400px) {

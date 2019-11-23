@@ -147,10 +147,10 @@
     margin-top: 5px;
   }
 
-  .container-education{
-    position: relative;
-    margin-top: 10%;
-  }
+.container-fluid{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
 
 
   @media (min-width: 576px) {

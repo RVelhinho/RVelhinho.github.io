@@ -1,7 +1,15 @@
 .container-hobbies{
-    height: 100vh;
     background-color: #333333;
-    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.htext1{
+    font-size: 10vmin;
+}
+
+.htext2{
+    font-size: 6vmin;
 }
 
 .img-container{
