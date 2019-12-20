@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import './hobbies.css';
-import Phone from './phone.png';
+import Tech from './tech.png';
 import Music from './music.png';
-import Running from './running.png';
+import Sports from './sports.png';
 import Code from './code.png';
 
 class Hobbies extends Component {
@@ -19,25 +19,25 @@ class Hobbies extends Component {
                     <div className='col-container my-auto col-3 col-sm-3 col-md-3 col-lg-3 order-1'>
                         <p className='mt-5 text-white htext2'>Music</p>
                         <div className='img-container img-wrapper'>
-                            <img src={Music} className='img-fluid img-hobby1'></img>
+                            <img src={Music} className='img-fluid m-2'></img>
                         </div>
                     </div>
                     <div className='col-container my-auto col-3 col-sm-3 col-md-3 col-lg-3 order-2'>
                         <p className='mt-5 text-white htext2'>Sports</p>
                         <div className='img-container img-wrapper'>
-                            <img src={Running} className='img-hobby2 m-3'></img>
+                            <img src={Sports} className='img-fluid m-2'></img>
                         </div>
                     </div>
                     <div className='col-container my-auto col-3 col-sm-3 col-md-3 col-lg-3 order-3'>
                         <p className='mt-5 text-white htext2'>Front-End</p>
                         <div className='img-container img-wrapper'>
-                            <img src={Code} className='img-hobby3 my-4'></img>
+                            <img src={Code} className='img-fluid m-2'></img>
                         </div>
                     </div>
                     <div className='col-container my-auto col-3 col-sm-3 col-md-3 col-lg-3 order-4'>
                         <p className='mt-5 text-white htext2'>Tech</p>
                         <div className='img-container img-wrapper'>
-                            <img src={Phone} className='img-hobby4 m-4'></img>
+                            <img src={Tech} className='img-fluid m-2'></img>
                         </div>
                     </div>
                 </div>
