@@ -16,7 +16,7 @@ import Home from './components/home';
 function App() {
   return (
     <React.Fragment>
-      <Home/>
+      <Route exact path='/' component={Home}/>
     </React.Fragment>
   );
 }
