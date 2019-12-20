@@ -10,18 +10,13 @@ import Social from './components/social';
 import Timeline from './components/timeline';
 import Skills from './components/skills';
 import Education from './components/education';
+import {Route} from 'react-router-dom';
+import Home from './components/home';
 
 function App() {
   return (
     <React.Fragment>
-      <NavBar/>
-      <Profile/>
-      <About></About>
-      <Hobbies></Hobbies>
-      <Skills></Skills>
-      <Timeline></Timeline>
-      <Education></Education>
-      <Social></Social>
+      <Route exact path='/' component={Home}/>
     </React.Fragment>
   );
 }
