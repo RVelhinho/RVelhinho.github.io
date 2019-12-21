@@ -14,10 +14,10 @@ class NavBar extends Component {
                         <div className="collapse navbar-collapse" id="navbarNavDropdown">
                             <ul className="navbar-nav w-100 justify-content-center">
                                 <li className="nav-item">
-                                    <Link className="nav-link active" to="/">Home</Link>
+                                    <Link className="nav-link active" to="/my-page/">Home</Link>
                                 </li>
                                 <li className="nav-item">
-                                <Link className="nav-link active" to="/projects">Projects</Link>
+                                <Link className="nav-link active" to="/my-page/projects">Projects</Link>
                                 </li>
                             </ul>
                         </div>
