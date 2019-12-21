@@ -19,9 +19,6 @@ class NavBar extends Component {
                                 <li className="nav-item">
                                 <Link className="nav-link active" to="/my-page/projects">Projects</Link>
                                 </li>
-                                <li className="nav-item">
-                                    <a className="nav-link disabled" href="/contacts">Contacts</a>
-                                </li>
                             </ul>
                         </div>
                     </nav>

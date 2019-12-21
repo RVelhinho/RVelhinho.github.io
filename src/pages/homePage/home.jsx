@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
-import NavBar from '../../navigation/navbar';
 import Profile from './components/profile';
 import About from './components/about';
 import Hobbies from './components/hobbies';
-import Buttons from './components/buttons';
 import Social from './components/social';
 import Timeline from './components/timeline';
 import Skills from './components/skills';

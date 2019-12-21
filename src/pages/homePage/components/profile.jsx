@@ -19,7 +19,7 @@ class Profile extends Component {
                             </div>
                             <div className='row w-75 h-25 justify-content-start mx-auto'>
                                 <div className='col-12 col-sm-7 mt-3 col-md-5 col-lg-5 order-1' align='center'>
-                                    <a href="../../../assets/downloads/CV_Ricardo_Velhinho.pdf" download><button type='button' className='btn btn-outline-light btn-lg'>Download CV</button></a>
+                                    <a href="CV_Ricardo_Velhinho.pdf" download><button type='button' className='btn btn-outline-light btn-lg'>Download CV</button></a>
                                 </div>
                                 <div className='col-12 col-sm-4 mt-3 col-md-1 col-lg-1 order-2' align='center'>
                                     <a href="mailto:ricvelhinho@gmail.com"><button type='button' className='btn btn-outline-light btn-lg'>Contact</button></a>
