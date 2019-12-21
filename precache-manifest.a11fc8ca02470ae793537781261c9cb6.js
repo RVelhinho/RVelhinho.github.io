@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6d613c7a843e5cf407180a1f2f1cb69a",
+    "revision": "34abfc53d6b3bdc66d35fd175bed2abd",
     "url": "/my-page/index.html"
   },
   {
-    "revision": "5bc50e269fb948dba522",
+    "revision": "78cc1858fa07def187ed",
     "url": "/my-page/static/css/2.510409cd.chunk.css"
   },
   {
-    "revision": "6e216b14d0fb247e903d",
+    "revision": "224c51e0746a57cdd41c",
     "url": "/my-page/static/css/main.cd2e329d.chunk.css"
   },
   {
-    "revision": "5bc50e269fb948dba522",
-    "url": "/my-page/static/js/2.2a2f0c4e.chunk.js"
+    "revision": "78cc1858fa07def187ed",
+    "url": "/my-page/static/js/2.2efc20b2.chunk.js"
   },
   {
-    "revision": "6e216b14d0fb247e903d",
-    "url": "/my-page/static/js/main.bb0ba9c4.chunk.js"
+    "revision": "224c51e0746a57cdd41c",
+    "url": "/my-page/static/js/main.2379699c.chunk.js"
   },
   {
     "revision": "978ed7c6f7da417affb9",
     "url": "/my-page/static/js/runtime-main.e2b8d1d7.js"
+  },
+  {
+    "revision": "b5809636b425d6f88b4bb48796ecb786",
+    "url": "/my-page/static/media/CV_Ricardo_Velhinho.b5809636.pdf"
   },
   {
     "revision": "ffea743704acddbd7c7582f9c92641a6",
