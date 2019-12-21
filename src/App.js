@@ -2,15 +2,15 @@ import React from 'react';
 import './App.css';
 import {Route} from 'react-router-dom';
 import Home from './pages/homePage/home';
-import Project from './pages/projectPage/project';
 import NavBar from './navigation/navbar';
+import Projects from './pages/projectPage/projects';
 
 function App() {
   return (
     <React.Fragment>
       <NavBar/>
       <Route exact path='/my-page/' component={Home}/>
-      <Route exact path='/my-page/project' component={Home}/>
+      <Route exact path='/my-page/projects' component={Projects}/>
     </React.Fragment>
   );
 }
