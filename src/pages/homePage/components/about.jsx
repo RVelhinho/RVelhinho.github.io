@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './about.css';
-import IST from './ist.jpg';
+import IST from '../../../assets/images/ist.jpg';
 
 class About extends Component {
     state = {  }

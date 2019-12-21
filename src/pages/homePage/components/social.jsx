@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import Facebook from './face.jpg';
-import Linkedin from './linkedin.png';
-import Github from './github.jpg';
+import Facebook from '../../../assets/images/face.jpg';
+import Linkedin from '../../../assets/images/linkedin.png';
+import Github from '../../../assets/images/github.jpg';
 import './social.css';
 
 class Social extends Component {

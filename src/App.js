@@ -1,22 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import NavBar from './components/navbar';
-import Profile from './components/profile';
-import About from './components/about';
-import Hobbies from './components/hobbies';
-import Buttons from './components/buttons';
-import Social from './components/social';
-import Timeline from './components/timeline';
-import Skills from './components/skills';
-import Education from './components/education';
 import {Route} from 'react-router-dom';
-import Home from './components/home';
+import Home from './pages/homePage/home';
+import Project from './pages/projectPage/project';
+import NavBar from './navigation/navbar';
 
 function App() {
   return (
     <React.Fragment>
+      <NavBar/>
       <Route exact path='/my-page/' component={Home}/>
+      <Route exact path='/my-page/project' component={Home}/>
     </React.Fragment>
   );
 }

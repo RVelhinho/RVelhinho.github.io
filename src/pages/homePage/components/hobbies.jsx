@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import './hobbies.css';
-import Tech from './tech.png';
-import Music from './music.png';
-import Sports from './sports.png';
-import Code from './code.png';
+import Tech from '../../../assets/images/tech.png';
+import Music from '../../../assets/images/music.png';
+import Sports from '../../../assets/images/sports.png';
+import Code from '../../../assets/images/code.png';
 
 class Hobbies extends Component {
     state = {  }

@@ -1,20 +1,19 @@
 import React, { Component } from 'react';
-import NavBar from './navbar';
-import Profile from './profile';
-import About from './about';
-import Hobbies from './hobbies';
-import Buttons from './buttons';
-import Social from './social';
-import Timeline from './timeline';
-import Skills from './skills';
-import Education from './education';
+import NavBar from '../../navigation/navbar';
+import Profile from './components/profile';
+import About from './components/about';
+import Hobbies from './components/hobbies';
+import Buttons from './components/buttons';
+import Social from './components/social';
+import Timeline from './components/timeline';
+import Skills from './components/skills';
+import Education from './components/education';
 
 class Home extends Component {
     state = {  }
     render() { 
         return(
             <React.Fragment>
-                <NavBar/>
                 <Profile/>
                 <About></About>
                 <Hobbies></Hobbies>
