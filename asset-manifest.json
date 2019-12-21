@@ -1,27 +1,29 @@
 {
   "files": {
-    "main.css": "/my-page/static/css/main.cd2e329d.chunk.css",
-    "main.js": "/my-page/static/js/main.2379699c.chunk.js",
-    "main.js.map": "/my-page/static/js/main.2379699c.chunk.js.map",
+    "main.css": "/my-page/static/css/main.609d703e.chunk.css",
+    "main.js": "/my-page/static/js/main.b742e226.chunk.js",
+    "main.js.map": "/my-page/static/js/main.b742e226.chunk.js.map",
     "runtime-main.js": "/my-page/static/js/runtime-main.e2b8d1d7.js",
     "runtime-main.js.map": "/my-page/static/js/runtime-main.e2b8d1d7.js.map",
     "static/css/2.510409cd.chunk.css": "/my-page/static/css/2.510409cd.chunk.css",
-    "static/js/2.2efc20b2.chunk.js": "/my-page/static/js/2.2efc20b2.chunk.js",
-    "static/js/2.2efc20b2.chunk.js.map": "/my-page/static/js/2.2efc20b2.chunk.js.map",
+    "static/js/2.2924f2f5.chunk.js": "/my-page/static/js/2.2924f2f5.chunk.js",
+    "static/js/2.2924f2f5.chunk.js.map": "/my-page/static/js/2.2924f2f5.chunk.js.map",
     "index.html": "/my-page/index.html",
-    "precache-manifest.a11fc8ca02470ae793537781261c9cb6.js": "/my-page/precache-manifest.a11fc8ca02470ae793537781261c9cb6.js",
+    "precache-manifest.10d7e05dc55bddbf9e1bf247821e457d.js": "/my-page/precache-manifest.10d7e05dc55bddbf9e1bf247821e457d.js",
     "service-worker.js": "/my-page/service-worker.js",
     "static/css/2.510409cd.chunk.css.map": "/my-page/static/css/2.510409cd.chunk.css.map",
-    "static/css/main.cd2e329d.chunk.css.map": "/my-page/static/css/main.cd2e329d.chunk.css.map",
+    "static/css/main.609d703e.chunk.css.map": "/my-page/static/css/main.609d703e.chunk.css.map",
     "static/media/CV_Ricardo_Velhinho.pdf": "/my-page/static/media/CV_Ricardo_Velhinho.b5809636.pdf",
     "static/media/eu.jpg": "/my-page/static/media/eu.ffea7437.jpg",
-    "static/media/ist.jpg": "/my-page/static/media/ist.01ad1604.jpg"
+    "static/media/ist.jpg": "/my-page/static/media/ist.01ad1604.jpg",
+    "static/media/underway.png": "/my-page/static/media/underway.a122be88.png",
+    "static/media/youtube_trends.png": "/my-page/static/media/youtube_trends.c6387698.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e2b8d1d7.js",
     "static/css/2.510409cd.chunk.css",
-    "static/js/2.2efc20b2.chunk.js",
-    "static/css/main.cd2e329d.chunk.css",
-    "static/js/main.2379699c.chunk.js"
+    "static/js/2.2924f2f5.chunk.js",
+    "static/css/main.609d703e.chunk.css",
+    "static/js/main.b742e226.chunk.js"
   ]
 }
