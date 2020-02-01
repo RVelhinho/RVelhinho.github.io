@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/my-page/static/css/main.609d703e.chunk.css",
-    "main.js": "/my-page/static/js/main.04b8d862.chunk.js",
-    "main.js.map": "/my-page/static/js/main.04b8d862.chunk.js.map",
-    "runtime-main.js": "/my-page/static/js/runtime-main.e2b8d1d7.js",
-    "runtime-main.js.map": "/my-page/static/js/runtime-main.e2b8d1d7.js.map",
-    "static/css/2.510409cd.chunk.css": "/my-page/static/css/2.510409cd.chunk.css",
-    "static/js/2.2924f2f5.chunk.js": "/my-page/static/js/2.2924f2f5.chunk.js",
-    "static/js/2.2924f2f5.chunk.js.map": "/my-page/static/js/2.2924f2f5.chunk.js.map",
-    "index.html": "/my-page/index.html",
-    "precache-manifest.b33454e3d0e38c5fd0c4c1be582565d9.js": "/my-page/precache-manifest.b33454e3d0e38c5fd0c4c1be582565d9.js",
-    "service-worker.js": "/my-page/service-worker.js",
-    "static/css/2.510409cd.chunk.css.map": "/my-page/static/css/2.510409cd.chunk.css.map",
-    "static/css/main.609d703e.chunk.css.map": "/my-page/static/css/main.609d703e.chunk.css.map",
-    "static/media/CV_Ricardo_Velhinho.pdf": "/my-page/static/media/CV_Ricardo_Velhinho.b5809636.pdf",
-    "static/media/eu.jpg": "/my-page/static/media/eu.ffea7437.jpg",
-    "static/media/ist.jpg": "/my-page/static/media/ist.01ad1604.jpg",
-    "static/media/underway.png": "/my-page/static/media/underway.60d47dcd.png",
-    "static/media/youtube_trends.png": "/my-page/static/media/youtube_trends.c6387698.png"
+    "main.css": "/static/css/main.609d703e.chunk.css",
+    "main.js": "/static/js/main.ff74f5d7.chunk.js",
+    "main.js.map": "/static/js/main.ff74f5d7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d247ced4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d247ced4.js.map",
+    "static/css/2.510409cd.chunk.css": "/static/css/2.510409cd.chunk.css",
+    "static/js/2.2924f2f5.chunk.js": "/static/js/2.2924f2f5.chunk.js",
+    "static/js/2.2924f2f5.chunk.js.map": "/static/js/2.2924f2f5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4d24cafa63eea0ac6d9dd4161d0d0b68.js": "/precache-manifest.4d24cafa63eea0ac6d9dd4161d0d0b68.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.609d703e.chunk.css.map": "/static/css/main.609d703e.chunk.css.map",
+    "static/media/CV_Ricardo_Velhinho.pdf": "/static/media/CV_Ricardo_Velhinho.b5809636.pdf",
+    "static/media/eu.jpg": "/static/media/eu.ffea7437.jpg",
+    "static/media/ist.jpg": "/static/media/ist.01ad1604.jpg",
+    "static/media/underway.png": "/static/media/underway.60d47dcd.png",
+    "static/media/youtube_trends.png": "/static/media/youtube_trends.c6387698.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e2b8d1d7.js",
+    "static/js/runtime-main.d247ced4.js",
     "static/css/2.510409cd.chunk.css",
     "static/js/2.2924f2f5.chunk.js",
     "static/css/main.609d703e.chunk.css",
-    "static/js/main.04b8d862.chunk.js"
+    "static/js/main.ff74f5d7.chunk.js"
   ]
 }
