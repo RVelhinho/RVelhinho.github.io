@@ -13,7 +13,7 @@ class Projects extends Component {
                         <Link to="/"><button type='button' className='btn btn-outline-dark'>Home</button></Link>
                     </div>
                 </div>
-                <div className='row w-100 mt-2 justify-content-center'>
+                <div className='row w-100 mt-2 mx-auto'>
                     <div className='col-12 text-center'>
                         <p className='display-3 text-dark'>Projects</p>
                     </div>
