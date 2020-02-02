@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d89396a.chunk.css",
+    "main.css": "/static/css/main.e27b0761.chunk.css",
     "main.js": "/static/js/main.5446ae7e.chunk.js",
     "main.js.map": "/static/js/main.5446ae7e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d247ced4.js",
@@ -9,10 +9,10 @@
     "static/js/2.b0bcaac5.chunk.js": "/static/js/2.b0bcaac5.chunk.js",
     "static/js/2.b0bcaac5.chunk.js.map": "/static/js/2.b0bcaac5.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.32f34b5045f76f9d29b2dcdd165d5615.js": "/precache-manifest.32f34b5045f76f9d29b2dcdd165d5615.js",
+    "precache-manifest.b2740e9aa20d3165449832d5ce96b377.js": "/precache-manifest.b2740e9aa20d3165449832d5ce96b377.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.510409cd.chunk.css.map": "/static/css/2.510409cd.chunk.css.map",
-    "static/css/main.6d89396a.chunk.css.map": "/static/css/main.6d89396a.chunk.css.map",
+    "static/css/main.e27b0761.chunk.css.map": "/static/css/main.e27b0761.chunk.css.map",
     "static/media/CV_Ricardo_Velhinho.pdf": "/static/media/CV_Ricardo_Velhinho.b5809636.pdf",
     "static/media/eu.jpg": "/static/media/eu.ffea7437.jpg",
     "static/media/ist.jpg": "/static/media/ist.01ad1604.jpg",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.d247ced4.js",
     "static/css/2.510409cd.chunk.css",
     "static/js/2.b0bcaac5.chunk.js",
-    "static/css/main.6d89396a.chunk.css",
+    "static/css/main.e27b0761.chunk.css",
     "static/js/main.5446ae7e.chunk.js"
   ]
 }
