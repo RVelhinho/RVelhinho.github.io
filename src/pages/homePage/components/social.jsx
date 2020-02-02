@@ -9,14 +9,14 @@ class Social extends Component {
         return (
             <div className='container-fluid container-social bg-dark'>
                 <p className='text-center text-white py-3 h3'>Find Me!</p>
-                <div className='row text-center mx-auto w-50'>
-                    <div className='my-auto col-4 col-sm-4 col-md-4 p-3'>
+                <div className='row text-center mx-auto w-100 justify-content-center'>
+                    <div className='my-auto col-3 col-sm-3 col-md-3 col-lg-2 p-3'>
                         <a href="https://www.facebook.com/ricardo.velhinho"><img src={Facebook} className='facebook img-fluid'></img></a>
                     </div>
-                    <div className='my-auto col-4 col-sm-4 col-md-4 py-3'>
+                    <div className='my-auto col-3 col-sm-3 col-md-3 col-lg-2 py-3'>
                         <a href="https://www.linkedin.com/in/ricardo-velhinho/"><img src={Linkedin} className='linkedin img-fluid'></img></a>    
                     </div>
-                    <div className='my-auto col-4 col-sm-4 col-md-4 py-3' id='github'>
+                    <div className='my-auto col-3 col-sm-3 col-md-3 col-lg-2 py-3' id='github'>
                         <a href="https://github.com/RVelhinho"><img src={Github} className='github img-fluid'></img></a>
                     </div>
                 </div>

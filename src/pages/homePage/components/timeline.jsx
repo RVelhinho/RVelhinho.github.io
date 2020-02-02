@@ -22,10 +22,10 @@ class Timeline extends Component {
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
                                         <h5 class="timeline-title">Volunteer</h5>
-                                        <p class='h5'>Websummit</p>
+                                        <p class='h6'>Websummit</p>
                                     </div>
                                     <div class="timeline-body">
-                                        <p class='h5'>Nov 4 2019 - Nov 7 2019</p>
+                                        <p class='h6'>Nov 4 2019 - Nov 7 2019</p>
                                         <p class='h6 text-secondary'>Web Summit is an annual technology conference held in Lisbon, Portugal, considered the largest tech event in the world.
                                         </p>
                                     </div>
@@ -36,7 +36,7 @@ class Timeline extends Component {
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
                                         <h5 class="timeline-title">Marketing and Sales Director</h5>
-                                        <p class='h5'>Hipower</p>
+                                        <p class='h6'>Hipower</p>
                                     </div>
                                     <div class="timeline-body">
                                         <p class='h6'>2015 - 2016</p>
