@@ -9,6 +9,10 @@
     max-width: 70%;
 }
 
+.sectext{
+    color: lightgrey;
+}
+
 @media (min-width: 576px) {
 }
 
