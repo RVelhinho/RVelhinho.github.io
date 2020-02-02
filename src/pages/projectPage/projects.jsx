@@ -8,12 +8,12 @@ class Projects extends Component {
     render() { 
         return(
             <div className='container-fluid h-auto p-0'>
-                <div className='row align-items-center'>
+                <div className='row w-100 align-items-center'>
                     <div className='col-3 col-sm-3 col-md-2 col-lg-2 mt-3' align='center'>
                         <Link to="/"><button type='button' className='btn btn-outline-dark'>Home</button></Link>
                     </div>
                 </div>
-                <div className='row'>
+                <div className='row w-100 mt-2'>
                     <div className='col-12 text-center'>
                         <p className='display-3 text-dark'>Projects</p>
                     </div>
