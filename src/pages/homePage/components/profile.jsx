@@ -22,7 +22,7 @@ class Profile extends Component {
                                 <div className='col-6 align-self-center col-sm-5 mt-3 col-md-3 col-lg-4 order-1' align='end'>
                                     <a target='_blank' href={pdf} download><button type='button' className='btn btn-outline-light btn-lg'>Download CV</button></a>
                                 </div>
-                                <div className='col-5 align-self-center col-sm-7 mt-3 col-md-3 col-lg-1 order-2' align='center'>
+                                <div className='col-6 align-self-center col-sm-7 mt-3 col-md-3 col-lg-1 order-2' align='center'>
                                     <a href="mailto:ricvelhinho@gmail.com"><button type='button' className='btn btn-outline-light btn-lg'>Contact</button></a>
                                 </div>
                             </div>
