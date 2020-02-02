@@ -17,7 +17,7 @@ class About extends Component {
                         take on new adventures in order to grow and become a better person and professional.
                         </p>
                     </div>
-                    <div className='mx-auto my-auto col-10 col-sm-8 col-md-5 col-lg-5 img-wrapper'>
+                    <div className='py-5 mx-auto my-auto col-10 col-sm-8 col-md-5 col-lg-5 img-wrapper'>
                         <img src={IST} className='img-fluid border border-dark'></img>
                     </div>
                 </div>

@@ -18,10 +18,10 @@ class Education extends Component {
                         <div class="timeline-badge warning"><FontAwesomeIcon icon={ faUniversity } /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h5 class="timeline-title">Msc. in Computer Science & Engineering</h5>
+                                <h6 class="timeline-title">Msc. in Computer Science & Engineering</h6>
                             </div>
                             <div class="timeline-body">
-                                <p class='h5 text-secondary'>2019 - Present</p>
+                                <p class='h6 text-secondary'>2019 - Present</p>
                             </div>
                         </div>
                     </li>
@@ -29,10 +29,10 @@ class Education extends Component {
                         <div class="timeline-badge warning"><FontAwesomeIcon icon={ faUniversity }></FontAwesomeIcon></div>
                             <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h5 class="timeline-title">Bsc. in Computer Science & Engineering</h5>
+                                <h6 class="timeline-title">Bsc. in Computer Science & Engineering</h6>
                             </div>
                             <div class="timeline-body">
-                                <p class='h5 text-secondary'>2016 - 2019</p>
+                                <p class='h6 text-secondary'>2016 - 2019</p>
                             </div>
                         </div>
                     </li>
@@ -40,10 +40,10 @@ class Education extends Component {
                         <div class="timeline-badge warning"><FontAwesomeIcon icon={ faBookOpen } /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h5 class="timeline-title">High School</h5>
+                                <h6 class="timeline-title">High School</h6>
                             </div>
                             <div class="timeline-body">
-                                <p class='h5 text-secondary'>2013 - 2016</p>
+                                <p class='h6 text-secondary'>2013 - 2016</p>
                             </div>
                         </div>
                     </li>
