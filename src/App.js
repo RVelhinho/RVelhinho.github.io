@@ -8,7 +8,6 @@ import Projects from './pages/projectPage/projects';
 function App() {
   return (
     <React.Fragment>
-      <NavBar/>
       <Route exact path='/' component={Home}/>
       <Route path='/projects' component={Projects}/>
     </React.Fragment>

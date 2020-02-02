@@ -1,14 +1,18 @@
 import React, { Component } from 'react';
 import Youtube from '../../assets/images/youtube_trends.png';
 import UnderWay from '../../assets/images/underway.png';
+import { Link } from 'react-router-dom';
 
 class Projects extends Component {
     state = {  }
     render() { 
         return(
-            <div className='container-fluid h-auto'>
+            <div className='container-fluid h-auto p-0'>
                 <div className='row h-25'>
-                    <div className='col-12 text-center'>
+                    <div className='col-3 col-sm-3 col-md-2 col-lg-2' align='center'>
+                        <Link to="/"><button type='button' className='btn btn-outline-dark mt-5'>Home</button></Link>
+                    </div>
+                    <div className='col-4 col-sm-6 col-md-8 col-lg-8 text-center pt-3'>
                         <p className='display-3 text-dark'>Projects</p>
                     </div>
                 </div>
