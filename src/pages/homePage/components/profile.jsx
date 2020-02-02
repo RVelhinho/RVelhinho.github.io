@@ -18,11 +18,11 @@ class Profile extends Component {
                                             <p className='h4 font-weight-light sectext'>Student at Instituto Superior Técnico</p>
                                         </div>
                                     </div>
-                                    <div className='row w-100 mx-auto mt-5'>
+                                    <div className='row w-100 mx-auto my-5'>
                                         <div className='col-6' align='end'>
                                             <a target='_blank' href={pdf} download><button type='button' className='btn btn-outline-light btn-lg'>Download CV</button></a>
                                         </div>
-                                        <div className='col-5 col-sm-1 col-md-5 col-lg-1' align='center'>
+                                        <div className='col-6 col-sm-1 col-md-5 col-lg-1' align='center'>
                                             <a href="mailto:ricvelhinho@gmail.com"><button type='button' className='btn btn-outline-light btn-lg'>Contact</button></a>
                                         </div>
                                     </div>
