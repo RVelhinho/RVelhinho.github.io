@@ -10,7 +10,7 @@ class Education extends Component {
                 <div className='row w=100 h-100'>
                 <div className='col-9 mx-auto my-auto'>
                 <div class="page-header text-center">
-                    <h1 class='h3' id="timeline">Education</h1>
+                    <h1 class='h3 text-dark' id="timeline">Education</h1>
                 </div>
                 <hr class='w-50 my-3'/>
                 <ul class="timeline">
