@@ -8,16 +8,18 @@ class Projects extends Component {
     render() { 
         return(
             <div className='container-fluid h-auto p-0'>
-                <div className='row h-25'>
+                <div className='row'>
                     <div className='col-3 col-sm-3 col-md-2 col-lg-2' align='center'>
                         <Link to="/"><button type='button' className='btn btn-outline-dark mt-5'>Home</button></Link>
                     </div>
-                    <div className='col-4 col-sm-6 col-md-8 col-lg-8 text-center pt-3'>
+                </div>
+                <div className='row'>
+                    <div className='col-12 text-center pt-3'>
                         <p className='display-3 text-dark'>Projects</p>
                     </div>
                 </div>
                 <hr className='w-75 my-4'/>
-                <div className='row w-100 h-75 justify-content-center mt-5 mx-0'>
+                <div className='row w-100 justify-content-center mt-5 mx-0'>
                     <div className='col-12 col-sm-5 col-md-4 col-lg-4 text-center' align='center'>
                         <a href='https://github.com/ggalambas/1920-MEIC-VI'><img src={Youtube} className='img-fluid border border-dark rounded'></img></a>
                         <p className='display-5 text-dark mt-3'>Youtube Trends Data Visualization (using D3 library)</p>
